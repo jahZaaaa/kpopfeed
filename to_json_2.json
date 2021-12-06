@@ -1,0 +1,16 @@
+{
+	"people": [
+		{
+			"name": "AAA",
+			"surname": "BBB",
+			"age": 25
+		},
+		{
+			"name": "HOT",
+			"surname": "COOL",
+			"age": 32
+		}
+	],
+	"add_time": "6-12-2021"
+	
+}
